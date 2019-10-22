@@ -1,0 +1,6 @@
+type: target-group
+name: early
+conditions:
+  - operator: semver-ne
+    property: rox.app_release
+    operand: '1'
