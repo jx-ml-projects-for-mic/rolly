@@ -1,6 +1,6 @@
 ![ROX by Rollout](https://1ko9923xosh2dsbjsxpwqp45-wpengine.netdna-ssl.com/wp-content/themes/rollout/images/rollout_white_logo1.png)
 
-[![Integration status](https://app.rollout.io/badges/5daf8906fc53991b2d910dc7)](https://app.rollout.io/app/5c528ffeaf23cf07f9bb3a84/settings/info)
+[![Integration status](https://app.rollout.io/badges/5daf97f3fc53991b2d910e3a)](https://app.rollout.io/app/5c528ffeaf23cf07f9bb3a84/settings/info)
 
 This repository is a YAML represnetation for Rollout configuration, it is connected (see badge for status) to Rollout service via [Rollout's github app](https://github.com/apps/rollout-io)
 Configuration as code allows the entire configuration of Rollout's state to be stored as source code. It integrates Rollout's UI with engineering existing environment. This approach brings a lot of benefits.
