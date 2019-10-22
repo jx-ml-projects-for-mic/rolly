@@ -2,6 +2,5 @@
 # URL: https://app.rollout.io/ex/5c52a0745cd82d07da60b373
 type: experiment
 name: spanky chat
-enabled: false
 flag: spankyChat
 value: false
