@@ -1,7 +1,6 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5db0c7f4e956ce753a377624
+# This file was edited by Cloudbees Feature Management
 type: experiment
 name: enable tutorial
-enabled: false
+description: 'Experiment: enable tutorial'
 flag: enable_tutorial
 value: true

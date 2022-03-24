@@ -1,6 +1,6 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5c52a0745cd82d07da60b373
+# This file was edited by Cloudbees Feature Management
 type: experiment
 name: spanky chat
+description: 'Experiment: spanky chat'
 flag: spankyChat
 value: true
